@@ -29,7 +29,7 @@
         "public": {
           "type": "Buffer",
           "data": "P0V8wo4C/jZ79fdBaCOA8Nx2Tu2BzoYt0Fh33ZRcOyc="
-        }
+     .   }
       },
       "signature": {
         "type": "Buffer",
